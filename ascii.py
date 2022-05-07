@@ -1,10 +1,4 @@
 
-
-
-#  Though I can easily make an interface to help you decide if the video should be captured from laptop camera or any video you wish to provide,
-#  But I chose to boast the code I wrote, Thnx
-
-
 from tkinter import *
 import cv2
 import os
